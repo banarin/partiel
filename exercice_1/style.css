@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.text-top{
+    text-decoration: underline;
+}
+.text-para{
+    margin-top: 20px;
+}
+.alert1{
+    color: red;
+}
+.alert2{
+    color: red;
+}
+.alert3{
+    color: red;
+}
+.content{
+    border: 2px solid ;
+    height: 300px;
+    width: 50%;
+    background-color: rgb(192, 226, 255);
+    align-content: center;
+    margin-top: 30px;
+    padding-top: 1rem;
+}
+.cart-info{
+    margin-left: 95px;
+}
+.nom{
+    margin-left: 20px;
+}
+.adress{
+    margin-left: 50px;
+}
+.choix{
+    display: flex;
+    margin-left: 180px;
+}
+.choix1{
+    margin-left: 50px;
+}
+.text-field{
+    margin-top: 20px;
+}
+.button{
+    padding-top: 30px;
+}
